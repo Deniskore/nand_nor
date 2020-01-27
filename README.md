@@ -1,5 +1,5 @@
 # Prerequisites
-- MSVC 2019+
+- ~~MSVC 2019+~~ It's better to use [clang-cl](http://llvm.org/builds/) because of [this bug](https://developercommunity.visualstudio.com/content/problem/873112/extremely-long-compilation-time-when-using-compile.html)
 - Clang 7.0+
 - GCC 8.3+
 - Gtest
